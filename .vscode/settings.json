@@ -3,5 +3,6 @@
     "files.autoSaveDelay": 100,
     "cSpell.words": [
         "uuidv"
-    ]
+    ],
+    "editor.fontSize": 14
 }
